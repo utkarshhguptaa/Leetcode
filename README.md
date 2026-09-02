@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
+| [3875-construct-uniform-parity-array-i](https://github.com/utkarshhguptaa/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/utkarshhguptaa/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
