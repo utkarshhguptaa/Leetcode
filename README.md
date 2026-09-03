@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshhguptaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0485-max-consecutive-ones](https://github.com/utkarshhguptaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarshhguptaa/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
