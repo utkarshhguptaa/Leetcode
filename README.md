@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/utkarshhguptaa/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshhguptaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/utkarshhguptaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshhguptaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshhguptaa/Leetcode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -62,4 +66,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
