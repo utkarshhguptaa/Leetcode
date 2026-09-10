@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/utkarshhguptaa/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshhguptaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarshhguptaa/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshhguptaa/Leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Quicksort
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 ## Quickselect
 |  |
 | ------- |
