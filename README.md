@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshhguptaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarshhguptaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarshhguptaa/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarshhguptaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshhguptaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarshhguptaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/utkarshhguptaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
