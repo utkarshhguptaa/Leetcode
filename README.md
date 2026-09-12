@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshhguptaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkarshhguptaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/utkarshhguptaa/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/utkarshhguptaa/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/utkarshhguptaa/Leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
 | ------- |
