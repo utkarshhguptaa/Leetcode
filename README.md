@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/utkarshhguptaa/Leetcode/tree/master/0053-maximum-subarray) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshhguptaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -123,12 +125,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshhguptaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0143-reorder-list](https://github.com/utkarshhguptaa/Leetcode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkarshhguptaa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Combinatorics
