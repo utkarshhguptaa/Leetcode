@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0835-image-overlap](https://github.com/utkarshhguptaa/Leetcode/tree/master/0835-image-overlap) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarshhguptaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/utkarshhguptaa/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarshhguptaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3483-unique-3-digit-even-numbers](https://github.com/utkarshhguptaa/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarshhguptaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -184,10 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/utkarshhguptaa/Leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarshhguptaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarshhguptaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Segment Tree
 |  |
 | ------- |
