@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/utkarshhguptaa/Leetcode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/utkarshhguptaa/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/utkarshhguptaa/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshhguptaa/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/utkarshhguptaa/Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/utkarshhguptaa/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/utkarshhguptaa/Leetcode/tree/master/0143-reorder-list) |
 | [0503-next-greater-element-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkarshhguptaa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/utkarshhguptaa/Leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/utkarshhguptaa/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
@@ -202,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
