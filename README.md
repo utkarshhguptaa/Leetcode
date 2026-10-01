@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshhguptaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshhguptaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1609-even-odd-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1609-even-odd-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
