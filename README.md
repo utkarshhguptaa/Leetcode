@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1609-even-odd-tree) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/utkarshhguptaa/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshhguptaa/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1609-even-odd-tree) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/utkarshhguptaa/Leetcode/tree/master/0143-reorder-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/utkarshhguptaa/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Combinatorics
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1096-brace-expansion-ii](https://github.com/utkarshhguptaa/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1609-even-odd-tree](https://github.com/utkarshhguptaa/Leetcode/tree/master/1609-even-odd-tree) |
 ## Bracket Sequences
